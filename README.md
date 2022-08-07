@@ -1,3 +1,6 @@
+<b>Update</b>: I am currently working at Amazon for summer 2022 within the Ops and Analytics team.
+
+
 - 👋 Hi, I’m Eli.
 - 🏛 I study Physics (University College London). 
 - 👾 I like to write (100K+ views), play chess (International Chess Olympiad '10), and code.
