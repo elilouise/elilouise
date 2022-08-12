@@ -1,4 +1,4 @@
-<b>Update</b>: I am currently working at Amazon for summer 2022 within the Ops and Analytics team (London)
+<b>Update</b>: I'm currently working for Amazon for summer 2022 within the Ops and Analytics team (London)
 
 
 - 👋 Hi, I’m Eli.
