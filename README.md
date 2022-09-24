@@ -2,9 +2,9 @@
 
 
 - 👋 Hi, I’m Eli.
-- 🏛 I study Physics (University College London). 
+- 🏛 I'm study Physics at University College London. 
 - 👾 I like to write (100K+ views), play chess (International Chess Olympiad '10), and code.
-- 🌱 Currently learning Machine Learning and Software Engineering.
+- 🌱 I'm Currently learning Machine Learning and Software Engineering.
 - 📫 Reach me via LinkedIn.
 
 <!---
