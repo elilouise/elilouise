@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eli.
 - 🏛 I study Physics at University College London. 
-- 👾 I like to write (100K+ views), play chess (International Chess Olympiad '10), and code (ex Amazon, UN)
+- 👾 I like to write (100K+ views on Medium & Quora ), play chess (International Chess Olympiad '10), and code (ex Amazon, UN)
 - 🌱 I'm currently learning Machine Learning.
 - 📫 Reach me via LinkedIn.
 
