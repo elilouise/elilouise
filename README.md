@@ -1,7 +1,5 @@
-- Hi, I’m Eli 👋
-- I study physics at University College London. 
+- Hi, I’m Eli 👋 I study physics at University College London. 
 - I like to write (300K+ views - Medium, Quora), play chess (International Chess Olympiad '10) and code (ex - Amazon, UN)
-- I'm currently learning Machine Learning.
 - Reach me via LinkedIn.
 
 <!---
