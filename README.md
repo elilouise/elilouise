@@ -1,5 +1,5 @@
 - Hi, I’m Eli, I study physics at UCL. 
-- I like to write (300K+ views - Medium, Quora), play chess (International Chess Olympiad '10) and code (Prev: Amazon, UN)
+- I like to write (300K+ views - Medium, Quora), play chess (International Chess Olympiad '10) and code (Prev @ Amazon, UN)
 - Reach me via LinkedIn.
 
 <!---
