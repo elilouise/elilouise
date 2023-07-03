@@ -1,6 +1,6 @@
 - Hi, I’m Eli, I study physics at UCL.
   
-Fun ongoing project:
+Fun ongoing side project:
 
 I'm growing my blog from 0 to 1M+ views & documenting the journey in public, check it: 
 
