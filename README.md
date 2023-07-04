@@ -2,7 +2,7 @@
   
 Fun active side project:
 
-I'm scaling my blog from 0 to 1M+ views & documenting the journey in public, check it: 
+I'm currently scaling my blog from 0 to 1M+ views & documenting the journey in public, check it: 
 
 <i>https://twitter.com/elilouise_/status/1395706160016146439?s=20</i>
 <!---
