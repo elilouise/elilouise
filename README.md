@@ -1,6 +1,6 @@
 Fun active project:
 
-I'm currently growing my blog from 0 to 1M+ views & documenting the journey in public, check it: 
+I'm growing my blog from 0 to 1M+ views & documenting the journey in public, check it: 
 
 <i>https://twitter.com/elilouise_/status/1395706160016146439?s=20</i>
 <!---
