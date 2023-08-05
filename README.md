@@ -1,4 +1,4 @@
-Fun active project:
+Fun active project
 
 I'm growing my blog from 0 to 1M+ views & documenting the journey in public, check it: 
 
