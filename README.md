@@ -1,6 +1,6 @@
 Fun active project
 
-I'm growing my Quora blog from 0 to 1M+ views & documenting the journey in public, check it: 
+I'm growing my blog from 0 to 1M+ views & documenting the journey in public, check it: 
 
 <i>https://bit.ly/eliquora</i>
 <!---
